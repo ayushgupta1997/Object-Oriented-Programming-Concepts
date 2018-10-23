@@ -1,2 +1,2 @@
 # Object-Oriented-Programming-Concepts
-It contains simplified OOP concepts with examples
+It contains simplified OOP concepts with examples.
