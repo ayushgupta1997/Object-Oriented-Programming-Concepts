@@ -3,6 +3,7 @@
  *Accessed using pointer or reference to base class, to achieve runtime polymorphism
  *defined in base class @overridden in derived class
  *there is no virtual constructor, but there can be virtual destructor
+ this is awesome !
 */
 
 // sample program to show run-time polymorphism
